@@ -65,17 +65,7 @@ With 3 years of experience in IT environments, I'm dedicated to creating technol
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=VictorPorrasV&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-<!--- trophy (end) -->
 
-
-</p>        
-<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
@@ -87,7 +77,7 @@ With 3 years of experience in IT environments, I'm dedicated to creating technol
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,dotnet,postgres,firebase,git,github,express,figma,firebase,redis,github,html,java,js,linux,ubuntu,mysql,nextjs,mongodb	,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,jquery,notion" />
   </a>
 </p>
 
