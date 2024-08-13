@@ -57,6 +57,7 @@ With 3 years of experience in IT environments, I'm dedicated to creating technol
 
 </td>
 
+
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
