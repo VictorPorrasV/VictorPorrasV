@@ -77,7 +77,7 @@ With 3 years of experience in IT environments, I'm dedicated to creating technol
 <!-- tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,dotnet,postgres,firebase,github,figma,redis,html,java,js,linux,ubuntu,mysql,nextjs,mongodb,nodejs,postman,py,react,redux,tailwind,ts,vscode,jquery,notion" />
+    <img src="https://skillicons.dev/icons?i=git,css,dotnet,firebase,github,figma,redis,html,java,js,linux,ubuntu,mysql,nextjs,mongodb,nodejs,postman,py,react,redux,vscode,jquery,notion" />
   </a>
 </p>
 
