@@ -36,7 +36,7 @@ With 3 years of experience in IT environments, I'm dedicated to creating technol
 
 
   - 🔭 Currently, I'm working as a freelancer, developing small apps and analyzing data.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,C#, .NET,Scrum,SqlServer,Mongo,Oracle**
+  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, React,C#, .NET,Scrum,SqlServer,Mongo,Oracle**
     
 
 - 📫 Feel free to reach me out **josuepv25@gmail.com**
